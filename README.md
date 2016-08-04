@@ -1,2 +1,2 @@
 # Dagger2ForAndroid
-原dagger工程基于maven构建，故将其Android部分移植到AndroidStudio,使用gradle构建。
+原dagger工程基于maven构建，为方便学习故将其Android部分移植到AndroidStudio,使用gradle构建。
